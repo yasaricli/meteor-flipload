@@ -13,9 +13,10 @@ Template.example.onRendered(function() {
   flip.load();
   
   // Loaded
-  window.setTimeout(function () {
+  Meteor.setTimeout(function () {
       flip.done();
   }, 5000);
 });
 ```
+
 [View demo page](http://pazguille.github.io/flipload/)
