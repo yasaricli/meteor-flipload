@@ -34,7 +34,7 @@ Create a new instance of `Flipload`.
 var flipload = new Flipload(box, [options]);
 ```
 
-### Flipload#load()
+### load()
 Flips and shows the `spinner`.
 
 ```js
