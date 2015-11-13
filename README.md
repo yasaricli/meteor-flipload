@@ -83,4 +83,5 @@ Destroys an instance of `Flipload`.
 flipload.destroy();
 ```
 
-[View demo page](http://pazguille.github.io/flipload/)
+## License
+Copyright (c) 2013 [@pazguille](https://github.com/pazguille) Licensed under the MIT license.
